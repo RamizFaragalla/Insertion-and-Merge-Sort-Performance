@@ -1,5 +1,6 @@
 # Insertion-and-Merge-Sort-Performance
-CSC 382 - Analysis of Algorithms
+CSC 382 - Analysis of Algorithms  
+**The performance data of the algorithms can be found in data.pdf**
 
 Programming Assignment: You need to implement insertion sort and merge sort (increasing or decreasing order) algorithms and measure the performance of these two algorithms in terms of number of steps and CPU running time.
 
