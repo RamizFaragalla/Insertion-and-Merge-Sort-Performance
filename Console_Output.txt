@@ -1,0 +1,155 @@
+***Input Size: 100
+
+Sorted input
+Insertion Sort: 2 microseconds | 596 steps
+Merge Sort: 64 microseconds | 7676 steps
+
+Reversely Sorted input
+Insertion Sort: 24microseconds | 20396 steps
+Merge Sort: 34 microseconds | 7596 steps
+
+Random Permutation input
+Insertion Sort: 21 microseconds | 11640 steps
+Merge Sort: 27 microseconds | 8042 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 12.5 microseconds | 10328 steps
+Merge Sort (average): 25.12 microseconds | 8050 steps
+
+___________________________________________
+***Input Size: 200
+
+Sorted input
+Insertion Sort: 2 microseconds | 1196 steps
+Merge Sort: 63 microseconds | 17164 steps
+
+Reversely Sorted input
+Insertion Sort: 97 microseconds | 80796 steps
+Merge Sort: 241 microseconds | 17004 steps
+
+Random Permutation input
+Insertion Sort: 61 microseconds | 54220 steps
+Merge Sort: 73 microseconds | 18024 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 44.58 microseconds | 37092 steps
+Merge Sort (average): 61.3 microseconds | 18078 steps
+
+___________________________________________
+***Input Size: 300
+
+Sorted input
+Insertion Sort: 3 microseconds | 1796 steps
+Merge Sort: 94 microseconds | 27308 steps
+
+Reversely Sorted input
+Insertion Sort: 203 microseconds | 181196 steps
+Merge Sort: 72 microseconds | 27052 steps
+
+Random Permutation input
+Insertion Sort: 108 microseconds | 119448 steps
+Merge Sort: 78 microseconds | 28812 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 79.72 microseconds | 94496 steps
+Merge Sort (average): 64.1 microseconds | 28868 steps
+
+___________________________________________
+***Input Size: 400
+
+Sorted input
+Insertion Sort: 3 microseconds | 2396 steps
+Merge Sort: 79 microseconds | 37940 steps
+
+Reversely Sorted input
+Insertion Sort: 268 microseconds | 321596 steps
+Merge Sort: 79 microseconds | 37620 steps
+
+Random Permutation input
+Insertion Sort: 192 microseconds | 204624 steps
+Merge Sort: 100 microseconds | 40182 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 139.26 microseconds | 156344 steps
+Merge Sort (average): 97.6 microseconds | 40250 steps
+
+___________________________________________
+***Input Size: 500
+
+Sorted input
+Insertion Sort: 4 microseconds | 2996 steps
+Merge Sort: 301 microseconds | 48436 steps
+
+Reversely Sorted input
+Insertion Sort: 414 microseconds | 501996 steps
+Merge Sort: 128 microseconds | 48324 steps
+
+Random Permutation input
+Insertion Sort: 242 microseconds | 305580 steps
+Merge Sort: 126 microseconds | 51592 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 222.16 microseconds | 243448 steps
+Merge Sort (average): 122.06 microseconds | 51594 steps
+
+___________________________________________
+***Input Size: 1000
+
+Sorted input
+Insertion Sort: 6 microseconds | 5996 steps
+Merge Sort: 250 microseconds | 105884 steps
+
+Reversely Sorted input
+Insertion Sort: 1626 microseconds | 2003996 steps
+Merge Sort: 240 microseconds | 105660 steps
+
+Random Permutation input
+Insertion Sort: 946 microseconds | 1165572 steps
+Merge Sort: 287 microseconds | 112958 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 826.42 microseconds | 968080 steps
+Merge Sort (average): 260.18 microseconds | 113252 steps
+
+___________________________________________
+***Input Size: 4000
+
+Sorted input
+Insertion Sort: 81 microseconds | 23996 steps
+Merge Sort: 889 microseconds | 495572 steps
+
+Reversely Sorted input
+Insertion Sort: 26100 microseconds | 32015996 steps
+Merge Sort: 997 microseconds | 494676 steps
+
+Random Permutation input
+Insertion Sort: 11078 microseconds | 17091780 steps
+Merge Sort: 986 microseconds | 529700 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 12837.5 microseconds | 1.60323e+07 steps
+Merge Sort (average): 1119.68 microseconds | 532932 steps
+
+___________________________________________
+***Input Size: 10000
+
+Sorted input
+Insertion Sort: 58 microseconds | 59996 steps
+Merge Sort: 2195 microseconds | 1366932 steps
+
+Reversely Sorted input
+Insertion Sort: 151165 microseconds | 200039996 steps
+Merge Sort: 2188 microseconds | 1358132 steps
+
+Random Permutation input
+Insertion Sort: 64236 microseconds | 94690860 steps
+Merge Sort: 2329 microseconds | 1444832 steps
+
+50 inputs - Random numbers [1, n] input
+Insertion Sort (average): 77212.5 microseconds | 1.40149e+07 steps
+Merge Sort (average): 2828.26 microseconds | 1.46991e+06 steps
+
+___________________________________________
+Average C for insertion: 1.36549
+Average C for merge: 37.1159
+Press any key to continue . . .
