@@ -1,0 +1,153 @@
+***Input Size: 100
+
+Sorted input
+Quick Sort: 360 microseconds | 41185 steps
+Randomized Quick Sort: 64 microseconds | 4798 steps
+
+Reversely Sorted input
+Quick Sort: 181 microseconds | 28685 steps
+Randomized Quick Sort: 67 microseconds | 4678 steps
+
+Random Permutation input
+Quick Sort: 45 microseconds | 4687 steps
+Randomized Quick Sort: 157 microseconds | 5035 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 40.92 microseconds | 4511.48 steps
+Randomized Quick Sort (average): 58.4 microseconds | 4906.26 steps
+
+___________________________________________
+***Input Size: 200
+
+Sorted input
+Quick Sort: 1321 microseconds | 162385 steps
+Randomized Quick Sort: 115 microseconds | 11008 steps
+
+Reversely Sorted input
+Quick Sort: 796 microseconds | 112385 steps
+Randomized Quick Sort: 196 microseconds | 10622 steps
+
+Random Permutation input
+Quick Sort: 237 microseconds | 9734 steps
+Randomized Quick Sort: 287 microseconds | 11833 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 86.94 microseconds | 10694.5 steps
+Randomized Quick Sort (average): 127.52 microseconds | 11290.6 steps
+
+___________________________________________
+***Input Size: 300
+
+Sorted input
+Quick Sort: 3190 microseconds | 363585 steps
+Randomized Quick Sort: 377 microseconds | 20118 steps
+
+Reversely Sorted input
+Quick Sort: 1588 microseconds | 251085 steps
+Randomized Quick Sort: 189 microseconds | 18320 steps
+
+Random Permutation input
+Quick Sort: 150 microseconds | 18893 steps
+Randomized Quick Sort: 205 microseconds | 18662 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 149.92 microseconds | 17265.9 steps
+Randomized Quick Sort (average): 191.96 microseconds | 18176.2 steps
+
+___________________________________________
+***Input Size: 400
+
+Sorted input
+Quick Sort: 5220 microseconds | 644785 steps
+Randomized Quick Sort: 251 microseconds | 27006 steps
+
+Reversely Sorted input
+Quick Sort: 3345 microseconds | 444785 steps
+Randomized Quick Sort: 256 microseconds | 24937 steps
+
+Random Permutation input
+Quick Sort: 186 microseconds | 23823 steps
+Randomized Quick Sort: 279 microseconds | 26537 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 141.52 microseconds | 23874.3 steps
+Randomized Quick Sort (average): 184.24 microseconds | 25302.3 steps
+
+___________________________________________
+***Input Size: 500
+
+Sorted input
+Quick Sort: 5141 microseconds | 1005985 steps
+Randomized Quick Sort: 237 microseconds | 31180 steps
+
+Reversely Sorted input
+Quick Sort: 2781 microseconds | 693485 steps
+Randomized Quick Sort: 217 microseconds | 34775 steps
+
+Random Permutation input
+Quick Sort: 163 microseconds | 29050 steps
+Randomized Quick Sort: 222 microseconds | 33082 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 170.94 microseconds | 31130.5 steps
+Randomized Quick Sort (average): 225.1 microseconds | 32850.4 steps
+
+___________________________________________
+***Input Size: 1000
+
+Sorted input
+Quick Sort: 25001 microseconds | 4011985 steps
+Randomized Quick Sort: 681 microseconds | 71028 steps
+
+Reversely Sorted input
+Quick Sort: 18661 microseconds | 2761985 steps
+Randomized Quick Sort: 704 microseconds | 70381 steps
+
+Random Permutation input
+Quick Sort: 519 microseconds | 66926 steps
+Randomized Quick Sort: 718 microseconds | 76708 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 385.16 microseconds | 69187 steps
+Randomized Quick Sort (average): 502.64 microseconds | 73882.4 steps
+
+___________________________________________
+***Input Size: 4000
+
+Sorted input
+Quick Sort: 331484 microseconds | 64047985 steps
+Randomized Quick Sort: 1982 microseconds | 347666 steps
+
+Reversely Sorted input
+Quick Sort: 163825 microseconds | 44047985 steps
+Randomized Quick Sort: 1860 microseconds | 353431 steps
+
+Random Permutation input
+Quick Sort: 1803 microseconds | 336564 steps
+Randomized Quick Sort: 2264 microseconds | 375210 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 1697.96 microseconds | 340737 steps
+Randomized Quick Sort (average): 2121.98 microseconds | 355292 steps
+
+___________________________________________
+***Input Size: 10000
+
+Sorted input
+Quick Sort: 1916020 microseconds | 400119985 steps
+Randomized Quick Sort: 4656 microseconds | 995648 steps
+
+Reversely Sorted input
+Quick Sort: 1001087 microseconds | 275119985 steps
+Randomized Quick Sort: 4755 microseconds | 967250 steps
+
+Random Permutation input
+Quick Sort: 4791 microseconds | 946081 steps
+Randomized Quick Sort: 5037 microseconds | 926752 steps
+
+50 inputs - Random numbers [1, n] input
+Quick Sort (average): 4548.1 microseconds | 955808 steps
+Randomized Quick Sort (average): 5505.5 microseconds | 991470 steps
+
+___________________________________________
+Press any key to continue . . .

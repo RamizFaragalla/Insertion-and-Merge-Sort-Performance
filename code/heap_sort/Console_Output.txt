@@ -1,0 +1,114 @@
+***Input Size: 100
+
+Sorted input
+Heap Sort: 90 microseconds | 7650 steps
+
+Reversely Sorted input
+Heap Sort: 76 microseconds | 6439 steps
+
+Random Permutation input
+Heap Sort: 88 microseconds | 7143 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 116.22 microseconds | 7084.32 steps
+___________________________________________
+***Input Size: 200
+
+Sorted input
+Heap Sort: 347 microseconds | 17797 steps
+
+Reversely Sorted input
+Heap Sort: 284 microseconds | 15049 steps
+
+Random Permutation input
+Heap Sort: 201 microseconds | 16488 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 200.1 microseconds | 16542.8 steps
+___________________________________________
+***Input Size: 300
+
+Sorted input
+Heap Sort: 349 microseconds | 28818 steps
+
+Reversely Sorted input
+Heap Sort: 371 microseconds | 24723 steps
+
+Random Permutation input
+Heap Sort: 317 microseconds | 26788 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 356.4 microseconds | 26874 steps
+___________________________________________
+***Input Size: 400
+
+Sorted input
+Heap Sort: 620 microseconds | 40387 steps
+
+Reversely Sorted input
+Heap Sort: 393 microseconds | 34949 steps
+
+Random Permutation input
+Heap Sort: 403 microseconds | 37979 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 331 microseconds | 37853.9 steps
+___________________________________________
+***Input Size: 500
+
+Sorted input
+Heap Sort: 380 microseconds | 52147 steps
+
+Reversely Sorted input
+Heap Sort: 325 microseconds | 45527 steps
+
+Random Permutation input
+Heap Sort: 356 microseconds | 49126 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 396.24 microseconds | 49145.5 steps
+___________________________________________
+***Input Size: 1000
+
+Sorted input
+Heap Sort: 823 microseconds | 116446 steps
+
+Reversely Sorted input
+Heap Sort: 719 microseconds | 102644 steps
+
+Random Permutation input
+Heap Sort: 1093 microseconds | 110744 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 856.18 microseconds | 110164 steps
+___________________________________________
+***Input Size: 4000
+
+Sorted input
+Heap Sort: 3937 microseconds | 564465 steps
+
+Reversely Sorted input
+Heap Sort: 3559 microseconds | 508453 steps
+
+Random Permutation input
+Heap Sort: 3987 microseconds | 536400 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 3734.86 microseconds | 536602 steps
+___________________________________________
+***Input Size: 10000
+
+Sorted input
+Heap Sort: 10724 microseconds | 1579911 steps
+
+Reversely Sorted input
+Heap Sort: 10116 microseconds | 1428607 steps
+
+Random Permutation input
+Heap Sort: 10348 microseconds | 1503151 steps
+
+50 inputs - Random numbers [1, n] input
+Heap Sort (average): 10418.6 microseconds | 1.50271e+06 steps
+___________________________________________
+Average C for Heap Sort: 36.4184
+Press any key to continue . . .
